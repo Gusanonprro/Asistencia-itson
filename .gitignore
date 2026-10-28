@@ -1,0 +1,4 @@
+.env
+evidencias/
+log.txt
+__pycache__/
